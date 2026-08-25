@@ -31,4 +31,4 @@ jobs:
 
       - name: 5. Execute Pytest suite
         run: |
-          pytest test_main.py
+          pytest tests
