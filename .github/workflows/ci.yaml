@@ -31,4 +31,4 @@ jobs:
 
       - name: 5. Execute Pytest suite
         run: |
-          pytest tests
+          pytest tests/
